@@ -1,0 +1,5 @@
+data/retail.db
+data/raw/data.csv
+data/processed/
+__pycache__/
+*.pyc
