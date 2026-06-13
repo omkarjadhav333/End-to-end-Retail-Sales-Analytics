@@ -38,7 +38,7 @@ python run\_pipeline.py
 1. **ETL** — cleans 541,909 rows: removes cancellations, nulls, invalid prices/quantities; engineers date features
 2. **SQL Analytics** — 8 business queries: monthly revenue, top products, country analysis, hourly patterns
 3. **RFM Segmentation** — segments customers into Champions, Loyal, At Risk, Hibernating etc.
-4. **Dashboard — interactive Power BI dashboard with revenue trends, RFM segmentation, product and geographic analysis**
+4. **Dashboard — interactive Power BI dashboard with revenue trends, RFM segmentation, product and geographic analysis.
 
 ## Dataset
 
@@ -50,7 +50,7 @@ Python · Pandas · SQLite · Plotly · Streamlit · Matplotlib
 
 
 
-\## Dashboard Preview
+## Dashboard Preview
 
 !\[Dashboard](dashboard%20screenshot.png)
 
