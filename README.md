@@ -46,7 +46,7 @@ Kaggle Online Retail Dataset — 541,909 transactions, 8 columns, 38 countries
 
 ## Tech stack
 
-Python · Pandas · SQLite · Plotly · Streamlit · Matplotlib
+Python · Pandas · SQLite · Plotly · Power BI · Matplotlib
 
 
 
