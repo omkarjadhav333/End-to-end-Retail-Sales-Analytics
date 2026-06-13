@@ -20,7 +20,7 @@ retail\_analytics/
 ├── analysis/
 │   └── rfm\_analysis.py      ← RFM customer segmentation
 ├── dashboard/
-│   └── app.py               ← Streamlit interactive dashboard
+│   └── app.py               ← Power BI interactive dashboard
 └── reports/                 ← auto-generated CSV + chart outputs
 ```
 
